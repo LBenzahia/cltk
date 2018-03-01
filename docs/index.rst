@@ -24,15 +24,19 @@ Contents
    old_english
    middle_english
    french
+   gujarati
    greek
    hebrew
    hindi
    javanese
+   kannada
    latin
    malayalam
    marathi
    multilingual
+   odia
    old_norse
+   old_portuguese
    pali
    persian
    prakrit
@@ -40,4 +44,5 @@ Contents
    sanskrit
    telugu
    tibetan
+   tocharian_b
    urdu
